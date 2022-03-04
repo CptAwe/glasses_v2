@@ -99,19 +99,19 @@ class Glasses{
                         case 1:
                             _rightEye[24] = colour;
                             break;
-                        case 2:
+                        case 3:
                             _rightEye[33] = colour;
                             break;
-                        case 3:
+                        case 4:
                             _rightEye[32] = colour;
                             break;
-                        case 4:
+                        case 5:
                             _rightEye[31] = colour;
                             break;
-                        case 5:
+                        case 6:
                             _rightEye[30] = colour;
                             break;
-                        case 6:
+                        case 7:
                             _rightEye[17] = colour;
                             break;
                         default:
@@ -123,13 +123,13 @@ class Glasses{
                         case 1:
                             _rightEye[9] = colour;
                             break;
-                        case 2:
+                        case 3:
                             _rightEye[25] = colour;
                             break;
-                        case 3:
+                        case 4:
                             _rightEye[34] = colour;
                             break;
-                        case 4:
+                        case 5:
                             _rightEye[35] = colour;
                             break;
                         default:
@@ -256,19 +256,19 @@ class Glasses{
                         case 1:
                             _leftEye[30] = colour;
                             break;
-                        case 2:
+                        case 3:
                             _leftEye[31] = colour;
                             break;
-                        case 3:
+                        case 4:
                             _leftEye[32] = colour;
                             break;
-                        case 4:
+                        case 5:
                             _leftEye[33] = colour;
                             break;
-                        case 5:
+                        case 6:
                             _leftEye[24] = colour;
                             break;
-                        case 6:
+                        case 7:
                             _leftEye[8] = colour;
                             break;
                         default:
@@ -280,13 +280,13 @@ class Glasses{
                         case 1:
                             _leftEye[16] = colour;
                             break;
-                        case 2:
+                        case 3:
                             _leftEye[29] = colour;
                             break;
-                        case 3:
+                        case 4:
                             _leftEye[35] = colour;
                             break;
-                        case 4:
+                        case 5:
                             _leftEye[34] = colour;
                             break;
                         default:
