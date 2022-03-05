@@ -17,3 +17,9 @@ The numbering for the rows and columns as seen from the front (from the point of
 
 ### Right eye
 ![right glass](images/right_glass.png)
+
+## Digital Rain
+
+A crude (but working!) implementation of the classic digital rain animation.
+
+![digital rain](images/digital_rain.gif)
