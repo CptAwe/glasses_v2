@@ -4,15 +4,14 @@
 #include "Arduino.h"
 #include "FastLED.h"
 
-#if defined(ARDUINO_AVR_UNO)// Arduino Uno
-    #define PIN_L     A1
-    #define PIN_R     A0
-    #define RANDOM_PIN_SEED A3
-#elif defined(ATTINY85)// Attny85
-    #define PIN_L     A0
-    #define PIN_R     A1
-    #define RANDOM_PIN_SEED A3
-#endif
+// Arduino Uno
+// #define PIN_L     A1
+// #define PIN_R     A0
+// #define RANDOM_PIN_SEED A3
+// Attny85
+#define PIN_L     3
+#define PIN_R     4
+#define RANDOM_PIN_SEED 2
 
 #define NUM_OF_PIXELS 36
 

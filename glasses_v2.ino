@@ -1,12 +1,11 @@
-#include <Arduino.h>
-#include <Glasses.h>
+#include "Glasses/Glasses.h"
 
 #define BRIGHTNESS 1
 
 Glasses glasses;
 
 void setup() {
-    Serial.begin(9600);
+    // Serial.begin(9600);
     glasses.clear();
 }
 
@@ -185,4 +184,3 @@ void loop() {
     makeItRain(0, green);
 
 }
-
